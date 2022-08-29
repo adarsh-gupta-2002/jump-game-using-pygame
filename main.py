@@ -1,8 +1,6 @@
-# from pdb import Restart
-# from socket import if_indextoname
-# from tkinter import CENTER
+ 
 import random
-# from django.shortcuts import render_doc
+#  use pygame version --> 2.1.2
 import pygame 
 from sys import exit
 from random import randint , choice
